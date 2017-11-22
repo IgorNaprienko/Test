@@ -31,8 +31,9 @@ git status
         modified:   README.md
 
     no changes added to commit (use "git add" and/or "git commit -a")
-###  Требует фиксации изменений , выполняем    
-git 
+###  Требует фиксации изменений , выполняем  
+ --
+git add
 ###  Пушим 
 git push -u origin master
 

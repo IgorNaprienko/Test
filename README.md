@@ -32,7 +32,8 @@ git status
 
     no changes added to commit (use "git add" and/or "git commit -a")
 ###  Требует фиксации изменений , выполняем  -- all (все принимаем)
-$ git add --all
+--
+   $ git add --all
 
 
 ###  Пушим 

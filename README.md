@@ -41,6 +41,7 @@ git push -u origin master
 
 #### commands 
     git config --global core.editor 
+	git commit - m "Commit"
 
 
 

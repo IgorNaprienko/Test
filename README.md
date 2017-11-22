@@ -32,8 +32,8 @@ git status
 
     no changes added to commit (use "git add" and/or "git commit -a")
 ###  Требует фиксации изменений , выполняем  
- --
-git add
+$ git add
+
 ###  Пушим 
 git push -u origin master
 

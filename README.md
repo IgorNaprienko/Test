@@ -40,8 +40,10 @@ git status
 git push -u origin master
 
 #### commands 
-    git config --global core.editor 
+   
 	git commit - m "Commit"
+	git config --global core.editor \
+"'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
 
 
